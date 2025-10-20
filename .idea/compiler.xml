@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="auth" />
-        <module name="eureka" />
         <module name="api" />
+        <module name="auth" />
+        <module name="courser-service" />
+        <module name="content-service" />
+        <module name="eureka" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +18,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api" options="-parameters" />
       <module name="auth" options="-parameters" />
+      <module name="content-service" options="-parameters" />
+      <module name="courser-service" options="-parameters" />
       <module name="eureka" options="-parameters" />
     </option>
   </component>
