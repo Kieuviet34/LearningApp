@@ -1,10 +1,10 @@
-package learning.userservices;
+package learning.submissionservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserServicesApplicationTests {
+class SubmissionServicesApplicationTests {
 
     @Test
     void contextLoads() {

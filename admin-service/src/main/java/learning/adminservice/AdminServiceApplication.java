@@ -1,13 +1,13 @@
-package learning.userservices;
+package learning.adminservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserServicesApplication {
+public class AdminServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(UserServicesApplication.class, args);
+        SpringApplication.run(AdminServiceApplication.class, args);
     }
 
 }

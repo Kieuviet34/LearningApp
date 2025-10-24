@@ -1,10 +1,10 @@
-package learning.userservices;
+package learning.runtimeservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserServicesApplicationTests {
+class RuntimeServiceApplicationTests {
 
     @Test
     void contextLoads() {
