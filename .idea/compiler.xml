@@ -11,8 +11,10 @@
         <module name="content-service" />
         <module name="eureka" />
         <module name="submission-services" />
+        <module name="runtime-service" />
         <module name="user-services" />
         <module name="api" />
+        <module name="config" />
         <module name="admin-service" />
       </profile>
     </annotationProcessing>
@@ -22,9 +24,11 @@
       <module name="admin-service" options="-parameters" />
       <module name="api" options="-parameters" />
       <module name="auth" options="-parameters" />
+      <module name="config" options="-parameters" />
       <module name="content-service" options="-parameters" />
       <module name="course-service" options="-parameters" />
       <module name="eureka" options="-parameters" />
+      <module name="runtime-service" options="-parameters" />
       <module name="submission-services" options="-parameters" />
       <module name="user-services" options="-parameters" />
     </option>

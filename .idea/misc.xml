@@ -14,6 +14,8 @@
         <option value="$PROJECT_DIR$/submission-services/pom.xml" />
         <option value="$PROJECT_DIR$/course-service/pom.xml" />
         <option value="$PROJECT_DIR$/admin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/runtime-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
       </list>
     </option>
   </component>
